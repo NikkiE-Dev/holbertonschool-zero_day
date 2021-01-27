@@ -1,0 +1,1 @@
+How Vi works, what it is used for and how to use the commands and functions
